@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #31EC56;
+    padding: 20px;
+    text-align: center;
+    color:rgb(255, 249, 249);
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+main {
+    padding: 20px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    border: 1px solid #171717;
+    padding: 8px;
+    text-align: left;
+}
+
+th {
+    background-color: #f2f2f2;
+}
+
+footer {
+    background-color:#31EC56;
+    padding: 20px;
+    text-align: center;
+    color:rgb(255, 249, 249);
+
+}
+
+
+.botao{
+background-color: #31EC56; 
+border: none;
+color:rgb(255, 249, 249);
+padding: 15px 32px;
+text-align: center;
+text-decoration: none;
+display: inline-block;
+font-size:   
+16px;
+margin: 4px 2px;
+cursor: pointer;
+}
